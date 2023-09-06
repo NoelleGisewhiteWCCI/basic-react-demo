@@ -1,0 +1,25 @@
+.header-div {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: pink;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+}
+
+li {
+    margin: auto 10px;
+}
+
+li a {
+    font-size: 1.5rem;
+    color: purple;
+    text-decoration: none;
+}
+
+li a:hover {
+    text-decoration: underline;
+}
